@@ -1,8 +1,7 @@
 <h3>Practice-Based-Project-using-HTML-CSS-JS</h3>
 <br>
-<h3>output</h3>
 <h5>A basic project to understand the concepts of HTML,CSS and JS. </h5>
-
+<h3>Output</h3>
 <br>
 <img width="950" alt="calculator" src="https://github.com/user-attachments/assets/5b165eda-2488-4222-8363-ce70a0a6aebc">
 
